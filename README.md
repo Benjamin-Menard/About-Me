@@ -5,7 +5,7 @@ Working to better my future in computer science!
 
 Currently Working On:
 ----
-CS50X certification | Started: 6/15 | 2/12 weeks completed
+CS50X certification | Started: 6/15 | 1/12 weeks completed
 
 Scripting/Programming/Styling Languages:
 ----
